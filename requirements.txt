@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+chromadb
+google-generativeai
+pandas
+matplotlib
