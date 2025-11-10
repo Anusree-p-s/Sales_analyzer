@@ -1,5 +1,5 @@
 📊 RAG Sales Data Analyzer: ChromaDB + Gemini
-This project is a Streamlit application designed to perform Retrieval-Augmented Generation (RAG) on internal PDF sales reports. It allows users to upload a proprietary sales report, embed the document chunks into a Chroma vector database using Google's powerful gemini-embedding-001, and then query the data using the Gemini 2.5 Flash model.
+This project is a Streamlit application designed to perform Retrieval-Augmented Generation (RAG) on internal PDF sales reports. It allows users to upload a proprietary sales report, embed the document chunks into a Chroma vector database using Google's powerful gemini-embedding, and then query the data using the Gemini 2.5 Flash model.
 
 The application not only retrieves and synthesizes information but also includes a feature to automatically extract and visualize key financial distributions (like regional sales) as a custom-colored pie chart.
 
